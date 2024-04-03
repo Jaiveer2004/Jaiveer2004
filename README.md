@@ -57,6 +57,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/PRgs2sn03T1x
 ### :fire: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiveer2004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Snake animation](https://github.com/Jaiveer2004/Jaiveer2004/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ---
 ### One Day You'll see all these stats going high :fire: :wink: !!
 
