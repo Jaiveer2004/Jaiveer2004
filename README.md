@@ -56,6 +56,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/PRgs2sn03T1x
 ---
 
 
----
 ### One Day You'll see all these stats going high :fire: :wink: !!
 
