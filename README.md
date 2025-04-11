@@ -62,11 +62,6 @@ I'm Jaiveer, a Computer Science student passionate about building impactful soft
 
 Here are some projects I’ve built to hone my skills:
 
-- **StrideCraft: E-commerce Platform**  
-  - Developed a responsive web application using **React JS**, **JavaScript**, **HTML**, and **CSS** for seamless product browsing and user management.  
-  - Implemented **Java**-based backend logic to optimize search and authentication features.  
-  - [GitHub Repo](#) | [Live Demo](#) *(Links to be added)*
-
 - **StudyFlix: Online Video Platform**  
   - Built a streaming service with **React JS** for the frontend and **Java** for user authentication and content delivery.  
   - Designed a relational database schema (coursework) to manage user data, focusing on scalability.  
